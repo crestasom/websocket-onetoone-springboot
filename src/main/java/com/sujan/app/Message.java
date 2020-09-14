@@ -1,4 +1,4 @@
-package com.nulpointerexception.npechatroom;
+package com.sujan.app;
 
 public class Message {
 

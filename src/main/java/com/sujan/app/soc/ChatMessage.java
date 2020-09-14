@@ -1,4 +1,4 @@
-package com.nulpointerexception.npechatroom.soc;
+package com.sujan.app.soc;
 
 public class ChatMessage {
 	

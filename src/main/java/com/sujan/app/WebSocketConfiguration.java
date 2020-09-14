@@ -1,4 +1,4 @@
-package com.nulpointerexception.npechatroom;
+package com.sujan.app;
 
 import org.springframework.context.annotation.Configuration; 
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

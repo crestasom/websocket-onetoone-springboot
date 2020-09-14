@@ -1,4 +1,4 @@
-package com.nulpointerexception.npechatroom.soc;
+package com.sujan.app.soc;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.ChannelRegistration;

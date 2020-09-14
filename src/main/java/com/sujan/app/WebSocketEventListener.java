@@ -1,4 +1,4 @@
-package com.nulpointerexception.npechatroom;
+package com.sujan.app;
 
 import static java.lang.String.format;
 
